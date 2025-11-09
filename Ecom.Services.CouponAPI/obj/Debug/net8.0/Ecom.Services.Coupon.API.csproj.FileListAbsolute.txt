@@ -1,0 +1,14 @@
+D:\My Projects\.Net Learning\Microservice_Ecom\Ecom.Services.Cupon.API\obj\Debug\net8.0\Ecom.Services.Coupon.API.csproj.AssemblyReference.cache
+D:\My Projects\.Net Learning\Microservice_Ecom\Ecom.Services.Cupon.API\obj\Debug\net8.0\Ecom.Services.Coupon.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Projects\.Net Learning\Microservice_Ecom\Ecom.Services.Cupon.API\obj\Debug\net8.0\Ecom.Services.Coupon.API.AssemblyInfoInputs.cache
+D:\My Projects\.Net Learning\Microservice_Ecom\Ecom.Services.Cupon.API\obj\Debug\net8.0\Ecom.Services.Coupon.API.AssemblyInfo.cs
+D:\My Projects\.Net Learning\Microservice_Ecom\Ecom.Services.Cupon.API\obj\Debug\net8.0\Ecom.Services.Coupon.API.csproj.CoreCompileInputs.cache
+D:\My Projects\.Net Learning\Microservice_Ecom\Ecom.Services.Cupon.API\obj\Debug\net8.0\Ecom.Services.Coupon.API.MvcApplicationPartsAssemblyInfo.cs
+D:\My Projects\.Net Learning\Microservice_Ecom\Ecom.Services.Cupon.API\obj\Debug\net8.0\Ecom.Services.Coupon.API.MvcApplicationPartsAssemblyInfo.cache
+D:\My Projects\.Net Learning\Microservice_Ecom\Ecom.Services.Coupon.API\obj\Debug\net8.0\Ecom.Services.Coupon.API.csproj.AssemblyReference.cache
+D:\My Projects\.Net Learning\Microservice_Ecom\Ecom.Services.Coupon.API\obj\Debug\net8.0\Ecom.Services.Coupon.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Projects\.Net Learning\Microservice_Ecom\Ecom.Services.Coupon.API\obj\Debug\net8.0\Ecom.Services.Coupon.API.AssemblyInfoInputs.cache
+D:\My Projects\.Net Learning\Microservice_Ecom\Ecom.Services.Coupon.API\obj\Debug\net8.0\Ecom.Services.Coupon.API.AssemblyInfo.cs
+D:\My Projects\.Net Learning\Microservice_Ecom\Ecom.Services.Coupon.API\obj\Debug\net8.0\Ecom.Services.Coupon.API.csproj.CoreCompileInputs.cache
+D:\My Projects\.Net Learning\Microservice_Ecom\Ecom.Services.Coupon.API\obj\Debug\net8.0\Ecom.Services.Coupon.API.MvcApplicationPartsAssemblyInfo.cs
+D:\My Projects\.Net Learning\Microservice_Ecom\Ecom.Services.Coupon.API\obj\Debug\net8.0\Ecom.Services.Coupon.API.MvcApplicationPartsAssemblyInfo.cache

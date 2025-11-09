@@ -1,0 +1,6 @@
+@Ecom.Services.AuthAPI_HostAddress = http://localhost:5169
+
+GET {{Ecom.Services.AuthAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

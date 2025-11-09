@@ -1,0 +1,11 @@
+D:\My Projects\.Net Learning\Microservice_Ecom\Ecom.Shared.CommonService\bin\Debug\net8.0\Ecom.Shared.CommonService.deps.json
+D:\My Projects\.Net Learning\Microservice_Ecom\Ecom.Shared.CommonService\bin\Debug\net8.0\Ecom.Shared.CommonService.dll
+D:\My Projects\.Net Learning\Microservice_Ecom\Ecom.Shared.CommonService\bin\Debug\net8.0\Ecom.Shared.CommonService.pdb
+D:\My Projects\.Net Learning\Microservice_Ecom\Ecom.Shared.CommonService\obj\Debug\net8.0\Ecom.Shared.CommonService.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Projects\.Net Learning\Microservice_Ecom\Ecom.Shared.CommonService\obj\Debug\net8.0\Ecom.Shared.CommonService.AssemblyInfoInputs.cache
+D:\My Projects\.Net Learning\Microservice_Ecom\Ecom.Shared.CommonService\obj\Debug\net8.0\Ecom.Shared.CommonService.AssemblyInfo.cs
+D:\My Projects\.Net Learning\Microservice_Ecom\Ecom.Shared.CommonService\obj\Debug\net8.0\Ecom.Shared.CommonService.csproj.CoreCompileInputs.cache
+D:\My Projects\.Net Learning\Microservice_Ecom\Ecom.Shared.CommonService\obj\Debug\net8.0\Ecom.Shared.CommonService.dll
+D:\My Projects\.Net Learning\Microservice_Ecom\Ecom.Shared.CommonService\obj\Debug\net8.0\refint\Ecom.Shared.CommonService.dll
+D:\My Projects\.Net Learning\Microservice_Ecom\Ecom.Shared.CommonService\obj\Debug\net8.0\Ecom.Shared.CommonService.pdb
+D:\My Projects\.Net Learning\Microservice_Ecom\Ecom.Shared.CommonService\obj\Debug\net8.0\ref\Ecom.Shared.CommonService.dll

@@ -1,0 +1,56 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Frontend", "Frontend", "{29EE564C-A739-4EC7-9FCC-55B8BCFD0613}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Gateway", "Gateway", "{55223F0F-588F-45CE-BE42-3C0608CE0DA5}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Integration", "Integration", "{1C17FA6A-495A-4D54-8009-5021F5F9B81D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Services", "Services", "{99A06796-D41C-4E9D-9BAD-CDD0DE8916FD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ecom.Services.CouponAPI", "Ecom.Services.CouponAPI\Ecom.Services.CouponAPI.csproj", "{0447F67D-27C0-41C1-9ED6-7E9181AFF77C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ecom.Web", "Ecom.Web\Ecom.Web.csproj", "{FD3B6995-3C78-434D-87E5-26625CD6891F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Shared", "Shared", "{463F2185-C7D7-4F5E-8AE6-2DADA4572ECF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ecom.Shared.CommonService", "Ecom.Shared.CommonService\Ecom.Shared.CommonService.csproj", "{0B0FDD83-92A3-4608-A835-C82774F759F7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ecom.Services.AuthAPI", "Ecom.Services.AuthAPI\Ecom.Services.AuthAPI.csproj", "{41B5D13F-06B0-4EE4-B8CC-595B45A67502}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0447F67D-27C0-41C1-9ED6-7E9181AFF77C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0447F67D-27C0-41C1-9ED6-7E9181AFF77C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0447F67D-27C0-41C1-9ED6-7E9181AFF77C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0447F67D-27C0-41C1-9ED6-7E9181AFF77C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD3B6995-3C78-434D-87E5-26625CD6891F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD3B6995-3C78-434D-87E5-26625CD6891F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD3B6995-3C78-434D-87E5-26625CD6891F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD3B6995-3C78-434D-87E5-26625CD6891F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B0FDD83-92A3-4608-A835-C82774F759F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B0FDD83-92A3-4608-A835-C82774F759F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B0FDD83-92A3-4608-A835-C82774F759F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B0FDD83-92A3-4608-A835-C82774F759F7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{41B5D13F-06B0-4EE4-B8CC-595B45A67502}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41B5D13F-06B0-4EE4-B8CC-595B45A67502}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{41B5D13F-06B0-4EE4-B8CC-595B45A67502}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{41B5D13F-06B0-4EE4-B8CC-595B45A67502}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{0447F67D-27C0-41C1-9ED6-7E9181AFF77C} = {99A06796-D41C-4E9D-9BAD-CDD0DE8916FD}
+		{FD3B6995-3C78-434D-87E5-26625CD6891F} = {29EE564C-A739-4EC7-9FCC-55B8BCFD0613}
+		{0B0FDD83-92A3-4608-A835-C82774F759F7} = {463F2185-C7D7-4F5E-8AE6-2DADA4572ECF}
+		{41B5D13F-06B0-4EE4-B8CC-595B45A67502} = {99A06796-D41C-4E9D-9BAD-CDD0DE8916FD}
+	EndGlobalSection
+EndGlobal

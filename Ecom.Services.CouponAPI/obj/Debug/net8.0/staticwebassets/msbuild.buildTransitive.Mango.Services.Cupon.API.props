@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Mango.Services.Cupon.API.props" />
+</Project>

@@ -1,0 +1,40 @@
+﻿@model IEnumerable<Ecom.Shared.CommonService.Dtos.CouponDto>
+@{
+    int i = 0;
+}
+<table class="table">
+    <thead>
+        <tr>
+            <th>No</th>
+            <th>Coupon Code</th>
+            <th>Discount Amount</th>
+            <th>Minimum Amount</th>
+            <th>Action</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            i++;
+            <tr>
+                <td>
+                    @i
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.CouponCode)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.DiscountAmount)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.MinAmount)
+                </td>
+                @Html.HiddenFor(modelItem => item.CouponId)
+                <td>
+                    <a onclick="updateCoupon(@item.CouponId)" class="btn btn-success"><i class="bi bi-pencil-square"></i> Edit</a>
+                    <a onclick="deleteCoupon(@item.CouponId)" class="btn btn-danger"><i class="bi bi-trash3"></i> Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
